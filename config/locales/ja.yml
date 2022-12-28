@@ -1,5 +1,10 @@
 ja:
   enums:
+    user:
+      gender:
+        lgtm: LGTM
+        men: 男性
+        women: 女性
     notification_timing:
       timing:
         created_event: イベントが作成された時
