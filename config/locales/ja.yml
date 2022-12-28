@@ -4,7 +4,7 @@ ja:
       gender:
         lgtm: LGTM
         men: 男性
-        women: 女性
+        woman: 女性
     notification_timing:
       timing:
         created_event: イベントが作成された時
