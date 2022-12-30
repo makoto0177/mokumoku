@@ -51,7 +51,7 @@ RSpec.describe "Users", type: :system do
         click_button 'ログイン'
 
         expect(page).to have_content('もくもく会を作る')
-        expect(User.last.gender).to eq 'man'
+        expect(User.last.gender).to eq 'men'
       end
 
       it 'Sign up時に性別(女性)を選んで登録することができる。' do
